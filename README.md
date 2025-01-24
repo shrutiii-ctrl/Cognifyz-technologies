@@ -1,2 +1,3 @@
-# Cognifyz-technologies
-in this i have done some projects given by this company to practice data analysis
+# COGNIFYZ TECHNOLOGIES
+In this I have done some TASKS given by this company to practice DATA ANALYSIS 
+WHERE I HAVE ANALYSE THE DATA OF THE RESTAURANT 
